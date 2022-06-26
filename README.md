@@ -3,6 +3,8 @@ Command line interface application for automating the process of ripping audio f
 
 Online Youtube to mp3 converters are slow and often do not set the correct meta data for easy import into DJ softwares as Serato. This application allows you to set the meta data during the download process, resulting in quick audio ripping and formatting.
 
+**Disclaimer:** YouTube audio is compressed using ACC when uploaded. This means that the highest quality anyone can rip from YouTube is around 128kbps. In some cases it can be as high as 256kbps. This application rips the highest possible audio quality from the selected videos.
+
 ## Important
 This CLI application was built, tested, and verified to work on a Mac OS operating system. There is no gaurentee it will work with Linux, Windows, etc... The following instructions are meant for Mac users.
 

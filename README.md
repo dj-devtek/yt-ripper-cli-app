@@ -15,15 +15,15 @@ git clone https://github.com/dj-devtek/yt-ripper-cli-app.git
 ```
 
 ## Prerequisites
-The python script uses the os library to run system commands on the host operating system. You will need to be running python3. Also, you must ffmpeg(audio extractor) and youtube-dl installed before you continue.
+The python script uses the os library to run system commands on the host operating system. You will need to be running python3. Also, you must ffmpeg(audio extractor) and yt-dlp installed before you continue.
 
 To check your python version, run...
 ```
 python3 --version
 ```
-To install youtube-dl, run...
+To install yt-dlp, run...
 ```
-brew install youtube-dl
+brew install yt-dlp
 ```
 To install ffmpeg, run...
 ```
